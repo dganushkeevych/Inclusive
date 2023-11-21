@@ -1,0 +1,80 @@
+h1 {
+    font-family: Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman;
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: black;
+    }
+ h3 {
+    font-family: Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 24.4px;
+    color: black;
+    }
+ vaadin-vertical-layout {
+    font-family: Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 25px;
+    color: black;
+    }
+ blockquote {
+    font-family: Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman;
+    font-size: 31px; font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 32px;
+    color: black;
+    }
+ pre {
+    font-family: Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman;
+    font-size: 23px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23.5714px;
+    color: black;
+    }
+
+ vaadin-tab {
+      background-color: white;
+      color: black;
+    }
+
+ vaadin-tab[aria-selected="true"] {
+        color: white;
+        background-color: black;
+    }
+ vaadin-tab :hover{
+        background-color:#696969;
+    }
+
+ vaadin-button{
+        color: white;
+        background-color: #282828;
+    }
+ vaadin-button:hover{
+        background-color:white;
+        color:black;
+        border: 2px solid black;
+    }
+ vaadin-button[id="scrollBackButton"]{
+         color: white;
+         background-color: black;
+    }
+
+.footer{
+    font-family: Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 23.5714px;
+}
